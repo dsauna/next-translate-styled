@@ -1,0 +1,7 @@
+{
+  "locales": ["en-US"],
+  "defaultLocale": "en-US",
+  "pages": {
+    "/": ["landing"]
+  }
+}
